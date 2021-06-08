@@ -43,7 +43,7 @@ async def start(c, m, cb=False):
         ],
         [
             InlineKeyboardButton('About 📕', callback_data="about")
-            
+            InlineKeyboardButton('My Channel🎥', url=f"https://t.me/close_chapters"),
         ]
     ]
 
