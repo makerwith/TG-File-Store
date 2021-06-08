@@ -29,7 +29,7 @@ async def start(c, m, cb=False):
 
 💡 ** I am Telegram File Store Bot**
 
-`Made For Closechapters`
+`Made For Closechapters For Upload Movies If you need movies join my group`
 
 
 **Owner:** {owner.mention(style='md')}
