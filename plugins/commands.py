@@ -42,7 +42,7 @@ async def start(c, m, cb=False):
             InlineKeyboardButton('Help 💡', callback_data="help")
         ],
         [
-            InlineKeyboardButton('About 📕', callback_data="about")
+            InlineKeyboardButton('About 🤖', callback_data="about")
             
         ]
     ]
