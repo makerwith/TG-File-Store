@@ -38,11 +38,12 @@ async def start(c, m, cb=False):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Boss 🤓', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Help 💡', callback_data="help")
+            InlineKeyboardButton('My Boss 💻', url=f"https://t.me/{owner_username}"),
+            InlineKeyboardButton('My Channel🎥', url=f"https://t.me/close_chapters"),
         ],
         [
             InlineKeyboardButton('About 📕', callback_data="about")
+            InlineKeyboardButton('Help 💡', callback_data="help")
         ]
     ]
 
